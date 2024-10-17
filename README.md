@@ -17,4 +17,4 @@ Filtering and sorting
 CASE Statement
 
 ## Solution
-Find my solution in the [sql script]((https://github.com/Jiyajiya21/8-Week-SQL-Challenge-/blob/main/SQL-SCRIPT%20copy.sql))
+Find my solution in the [sql script](https://github.com/Jiyajiya21/8-Week-SQL-Challenge-/blob/main/SQL-SCRIPT%20copy.sql)
