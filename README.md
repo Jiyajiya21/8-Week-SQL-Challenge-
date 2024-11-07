@@ -16,5 +16,8 @@ Find the challenge [here](https://8weeksqlchallenge.com/case-study-1/)
 * Filtering and sorting
 * CASE Statement
 
-## Solution
+## Solution<img width="169" alt="Pic" src="https://github.com/user-attachments/assets/972b1759-c924-41f6-a23d-a0e12bbcccd8">
+
 Find my solution in the [sql script](https://github.com/Jiyajiya21/8-Week-SQL-Challenge-/blob/main/SQL-SCRIPT%20copy.sql)
+
+![Uploading Pic.png…]()
