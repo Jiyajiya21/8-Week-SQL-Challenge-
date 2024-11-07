@@ -1,6 +1,7 @@
 # 8-Week-SQL-Challenge-Case-1
 
-Case Study #1 - Danny's Dinner
+## Case Study #1 - Danny's Dinner
+
 <img width="400" height="400" alt="Pic" src="https://github.com/user-attachments/assets/972b1759-c924-41f6-a23d-a0e12bbcccd8">
 
 ### TASK
